@@ -1,0 +1,16 @@
+# Ignore Python/Django files
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# Ignore Node.js (if using React/Angular)
+node_modules/
+package-lock.json
+
+# Ignore database files (if SQLite)
+db.sqlite3
+
+# Ignore VSCode settings (optional)
+.vscode/
