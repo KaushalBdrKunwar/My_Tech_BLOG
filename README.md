@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple **Blog Application** built with **Django** and **Bootstrap**. Allows users to create, view, update, delete, and comment on blog posts.
+A simple **Blog Application** built with **Django**,**HTML**,**CSS**,**JS** and **Bootstrap**. Allows users to create, view, update, delete, and comment on blog posts.
 
 ## Features
 
